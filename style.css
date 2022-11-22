@@ -52,8 +52,14 @@ p{
 
 
 @media only screen and (max-width: 600px) {
+    h1{
+        padding-top:20px
+    }
     h2{
-        font-size: 150px;
+        font-size: 125px;
+    }
+    .button{
+        width:80%;
     }
  }
  
